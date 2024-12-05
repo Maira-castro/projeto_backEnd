@@ -32,8 +32,8 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/projeto-backend.git
-    cd projeto-backend
+    git clone https://github.com/Maira-castro/projeto_backEnd.git
+    cd Projeto_BackEnd
     ```
 
 2. Instale as dependências:
